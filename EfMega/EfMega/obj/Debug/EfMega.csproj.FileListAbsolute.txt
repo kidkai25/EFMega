@@ -1,0 +1,12 @@
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EfMega.exe.config
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EfMega.exe
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EfMega.pdb
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EntityFramework.dll
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EntityFramework.xml
+C:\Users\Abdul\source\repos\EfMega\EfMega\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdul\source\repos\EfMega\EfMega\obj\Debug\EfMega.csprojAssemblyReference.cache
+C:\Users\Abdul\source\repos\EfMega\EfMega\obj\Debug\EfMega.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\EfMega\EfMega\obj\Debug\EfMega.csproj.CopyComplete
+C:\Users\Abdul\source\repos\EfMega\EfMega\obj\Debug\EfMega.exe
+C:\Users\Abdul\source\repos\EfMega\EfMega\obj\Debug\EfMega.pdb
